@@ -1,0 +1,14 @@
+application:
+  domain:
+  short_url_length: 
+
+webserver:
+  listen:
+  
+mysql:
+  ip: 
+  port:
+  database:
+  user:
+  password:
+
